@@ -1,13 +1,13 @@
 # Instalker Project | Beta v.01
 
 Download all foto and video on instagram \
-code with <3 
-
+code with <3 \
+codname : Sadness 
 1. #!/bin/bash
 2. Python 3
 ---
 * How to use?
-> ./Instaload.sh Version , Get_foto , Get_video , Get_foto_private \
+> Just Use your Fvcking Brain :v
 ---
 * My code is a mess but its still working :v
 
