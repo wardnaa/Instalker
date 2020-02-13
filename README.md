@@ -1,6 +1,6 @@
 # Instalker Project | Beta v.01
 <h4> Codname : Sadness </h4>\
-Download all foto and video Instgram in your Terminal  \
+Download all foto and video Instagram in your Terminal  \
 
 1. #!/bin/bash
 2. Python 3
