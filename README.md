@@ -6,7 +6,7 @@ Download all foto and video Instagram in your Terminal  \
 2. Python 3
 ---
 * How to use?
-> ./instalker
+> ./instaload
 ---
 * My code is a mess but its still working :v
 
